@@ -1,2 +1,1 @@
-Thich chi viet nay - Day la ghi chu
-Duy chinh ne
+Bai tap lon mon AI
